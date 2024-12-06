@@ -204,7 +204,8 @@ p.card-text.for-about{
 
 h3.for-about{
     font-size:32px;
-     color:#228B22;
+    font-weight:bold;
+    color:#228B22;
 }
 
 a.link-to-course{

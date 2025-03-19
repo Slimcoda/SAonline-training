@@ -202,6 +202,10 @@ p.card-text.for-about{
    
 }
 
+section.aboutSAonline{
+    background-color: #FAEBD7;
+}
+
 h3.for-about{
     font-size:32px;
     font-weight:bold;

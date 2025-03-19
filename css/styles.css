@@ -204,6 +204,11 @@ p.card-text.for-about{
 
 .aboutSAonline{
     background-color: #FAEBD7;
+    margin-button: 25px;
+}
+
+#saonlinecontainer{
+    background-color: #FAEBD7;
 }
 
 h3.for-about{
